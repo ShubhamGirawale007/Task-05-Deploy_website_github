@@ -1,4 +1,4 @@
-# [🖩 Responsive Calculator](https://calculater-functional.vercel.app/)
+# [calculater-Deploy_website_github](https://calculater-functional.vercel.app/)
 
 A sleek, **responsive calculator** built with **HTML**, **CSS**, and **JavaScript**.  
 Features a modern UI, hover animations, and mobile-friendly design.
@@ -69,4 +69,5 @@ Open index.html in your browser or use VS Code Live Server.
 
 👨‍💻 Author
 Shubham Girawale
+
 
