@@ -36,7 +36,7 @@ Edit
 ## 🖥️ Preview
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop Screenshot](img/Desktop.png) | ![Mobile Screenshot](img/Mobile.png) |
+| ![Desktop Screenshot](Desktop.png) | ![Mobile Screenshot](Mobile.png) |
 
 ---
 
@@ -69,5 +69,6 @@ Open index.html in your browser or use VS Code Live Server.
 
 👨‍💻 Author
 Shubham Girawale
+
 
 
